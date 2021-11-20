@@ -1,0 +1,53 @@
+Módulo Apresentação Controle (MAC):
+	Módulo que lida com a apresentação da tela inicial, dando acesso às telas dos outros módulos de apresentação, e ligando a esses módulos suas respectivas controladoras de serviço.
+
+- void executar(): Apresenta tela inicial do programa, recebendo dado do usuário para direcioná-lo à tela do módulo de apresentação com o serviço que ele selecionar.
+
+---------------------------------------------------------------------
+
+Módulo Apresentação Autenticação (MAA):
+	Módulo que lida com a apresentação de telas e recebimento de dados de usuários para serviços relacionados à autenticação no sistema.
+
+- bool autenticar(Email*): Recebe do usuário e-mail para autenticação no sistema, que será feita pela camada de serviços.
+
+Módulo Serviço Autenticação (MSA):
+	Módulo que lida com a execução dos serviços e implementação de lógica da autenticação de usuários, checando se as informações dadas pelos usuários condizem com aquelas armazenadas no banco de dados.
+
+- bool autenticar(Email, Senha): Verifica se usuário está cadastrado no sistema, comparando a senha dada à senha armazenada tomando em conta o e-mail dado.
+
+---------------------------------------------------------------------
+
+Módulo Apresentação Pessoal (MAP):
+	Módulo que lida com a apresentação de telas e recebimento de dados de usuários para serviços relacionados a gerenciamento de dados relativos a pessoal no programa.
+
+- void executar(Email): Apresenta tela com serviços de pessoal para usuário já autenticado.
+- void cadastrar(): Apresenta tela de cadastro para usuário não autenticado, recebendo o preenchimento dos campos que resultarão no novo usuário.
+
+Módulo Serviço Pessoal (MSP):
+	Módulo que lida com a execução dos serviços e implementação de lógica relativos a pessoal, implementando serviços que permitem que usuários sejam cadastrados, editados ou descadastrados, através de conexão com o banco de dados.
+
+- bool cadastrarUsuario(Usuario): Cadastra usuário no banco de dados com base nas informações passadas na tela de apresentação.
+- bool descadastrarUsuario(Email): Descadastra usuário que selecionou esse serviço a partir da tela de serviços de pessoal para usuários já autenticados. Remove o usuário da persistência do sistema, junto com seus imóveis e propostas.
+- bool editarUsuario(Usuario): Edita dados de usuário que selecionou esse serviço a partir da tela de serviços de pessoal, com preenchimento dos campos necessários. Altera no banco de dados as informações ligadas ao e-mail cadastrado.
+
+---------------------------------------------------------------------
+
+Módulo Apresentação Imóveis (MAI):
+	Módulo que lida com a apresentação de telas e recebimento de dados de usuários para serviços relacionados a imóveis e propostas de aluguel ligadas a imóveis.
+
+- void executar(): Apresenta tela com serviços relacionados a imóveis para usuários não autenticados (listagem e consulta de imóveis), com recebimento de dados do usuário.
+- void executar(Email): Apresenta tela com serviços relacionados a imóveis para usuários já autenticados (listagem, consulta, cadastro, descadastro e edição de imóveis e propostas), com recebimento de dados do usuário.
+
+Módulo Serviço Imóveis (MSI)
+	Módulo que lida com a execução dos serviços e implementação de lógica relativos a imóveis, implementando serviços que permitem cadastrar, descadastrar, editar e listar imóveis e propostas, através de conexão com o banco de dados.
+
+- bool cadastrarImovel(Imovel, Email): Cadastra imóvel de usuário autenticado no banco de dados, com base nas informações lidas na apresentação.
+- bool consultarImovel(Imovel*, Email*): Faz a leitura dos dados de imóvel cadastrado no banco de dados, preenchendo objeto da entidade imóvel através do seu endereço.
+- bool descadastrarImovel(Codigo, Email): Descadastra imóvel de usuário a partir de código lido na apresentação, removendo seus dados do banco de dados.
+- bool listarImoveis(list<Imovel>*): Lê todos os imóveis cadastrados no banco de dados, escrevendo os dados em lista através de seu endereço.
+- bool editarImovel(Imovel, Email): Edita imóvel registrado no banco de dados, alterando as informações existentes a partir do que o usuário passou na camada de apresentação.
+- bool cadastrarProposta(Proposta, Email, Codigo): Descadastra proposta feita por usuário a partir do código passado, removendo do banco de dados os dados da proposta.
+- bool consultarProposta(Email, Proposta*, Email*, Codigo*): Faz a leitura dos dados de proposta cadastrada no banco de dados, preenchendo objeto da entidade proposta através do seu endereço.
+- bool descadastrarProposta(Codigo, Email): Descadastra proposta de usuário a partir de código lido na apresentação, removendo seus dados do banco de dados.
+- bool listarPropostas(Email, list<Proposta>*, list<Codigo>*): Lê todas as propostas cadastradas no banco de dados associadas ao usuário autenticado que fez o pedido do serviço, escrevendo os dados em lista através do seu endereço.
+- bool listarPropostasDeImovel(Email, Codigo, list<Proposta>*, list<Codigo>*): Lê todas as propostas cadastradas no banco de dados associadas ao imóvel especificado e cadastrado pelo usuário, escrevendo os dados em lista através do seu endereço.

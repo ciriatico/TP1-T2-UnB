@@ -1,0 +1,633 @@
+# depslib dependency file v1.0
+1604163263 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1604163317 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1604145518 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\interfaces.h
+	"dominios.h"
+
+1603913538 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\dominios.h
+	<stdexcept>
+
+1604163086 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\controladorasservico.cpp
+
+1603910735 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\dominios.cpp
+	"dominios.h"
+
+1604163349 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604147641 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1603914392 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\exemplo\stubs.cpp
+	"stubs.h"
+
+1604181006 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1604175968 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1604175925 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\dominios.h
+	<stdexcept>
+
+1604181320 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\entidades.h
+	"dominios.h"
+
+1604170366 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1604170366 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasservico.cpp
+	"controladorasservico.h"
+
+1604170366 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1604175910 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\dominios.cpp
+	"dominios.h"
+
+1604169553 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604169516 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604170366 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 12\stubs.cpp
+	"stubs.h"
+
+1604627535 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1605110379 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864423 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1604175925 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\dominios.h
+	<stdexcept>
+
+1604181320 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\entidades.h
+	"dominios.h"
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1604170366 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasservico.cpp
+	"controladorasservico.h"
+
+1604170366 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1604175910 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\dominios.cpp
+	"dominios.h"
+
+1604169553 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1604584113 c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1604584113 source:c:\users\ferna\dropbox\documentos\cursos\cic\tecnicas de programacao 1\versao c++\exemplos de códigos\exemploscodigos\exemplo 11\stubs.cpp
+	"stubs.h"
+
+1613283892 source:c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\dominios.h
+	<stdexcept>
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\entidades.h
+	"dominios.h"
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1613283892 source:c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\controladorasservico.cpp
+	"controladorasservico.h"
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1613283892 source:c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\dominios.cpp
+	"dominios.h"
+
+1613283892 source:c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1613283892 c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1613283892 source:c:\users\ciri\desktop\unb\semestre1\tp1\exemplos\exemploscodigos\exemplo 11\stubs.cpp
+	"stubs.h"
+
+1620097216 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\controladorasservico.cpp
+	"controladorasservico.h"
+
+1619972667 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+	<iostream>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1618760713 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\dominios.h
+	<string>
+	<stdexcept>
+
+1619380026 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\entidades.h
+	"dominios.h"
+
+1619892187 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1618760734 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\dominios.cpp
+	"dominios.h"
+
+1619359100 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+	"stubs.h"
+
+1618757689 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1619892273 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+
+1618759037 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1618760857 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\stubs.cpp
+	"stubs.h"
+
+1620096893 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1619044943 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1618760909 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1618757689 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1618760713 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\dominios.h
+	<string>
+	<stdexcept>
+
+1618760743 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\entidades.h
+	"dominios.h"
+
+1618760776 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1618757610 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\controladorasservico.cpp
+	"controladorasservico.h"
+
+1618760809 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1618760734 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\dominios.cpp
+	"dominios.h"
+
+1618759430 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+
+1618759037 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1618760857 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo - copy\exemplo 11\stubs.cpp
+	"stubs.h"
+
+1613283898 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\exemplo 11\sqlite3.h
+	<stdarg.h>
+
+1620097401 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1619892273 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+
+1618757689 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1618760713 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\dominios.h
+	<string>
+	<stdexcept>
+
+1619380026 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\entidades.h
+	"dominios.h"
+
+1619892187 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1620097216 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\controladorasservico.cpp
+	"controladorasservico.h"
+
+1619972667 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+	<iostream>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1613283898 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\sqlite3.h
+	<stdarg.h>
+
+1618760734 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\dominios.cpp
+	"dominios.h"
+
+1620246154 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+
+1620097401 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1619892273 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+
+1618757689 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1618760713 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\dominios.h
+	<string>
+	<stdexcept>
+
+1619380026 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\entidades.h
+	"dominios.h"
+
+1619892187 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1620097216 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\controladorasservico.cpp
+	"controladorasservico.h"
+
+1619972667 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+	<iostream>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1613283898 c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\sqlite3.h
+	<stdarg.h>
+
+1618760734 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\dominios.cpp
+	"dominios.h"
+
+1620246154 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\codeblockslixo\projetoimoveist2vidasloua\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+
+1620247389 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1620247723 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+
+1618757689 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1618760713 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\dominios.h
+	<string>
+	<stdexcept>
+
+1619380026 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\entidades.h
+	"dominios.h"
+
+1619892187 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1620247400 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\controladorasservico.cpp
+	"controladorasservico.h"
+
+1620247427 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+	<iostream>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1613283898 c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\sqlite3.h
+	<stdarg.h>
+
+1618760734 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\dominios.cpp
+	"dominios.h"
+
+1620246154 source:c:\users\ciri\desktop\unb\semestre1\tp1\t2\t2-tp1-202033202\projetoimoveist2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+
+1620247389 source:c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1620247723 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+
+1618757689 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1618760713 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\dominios.h
+	<string>
+	<stdexcept>
+
+1619380026 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\entidades.h
+	"dominios.h"
+
+1619892187 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1620247400 source:c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\controladorasservico.cpp
+	"controladorasservico.h"
+
+1620247427 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+	<iostream>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1613283898 c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\sqlite3.h
+	<stdarg.h>
+
+1618760734 source:c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\dominios.cpp
+	"dominios.h"
+
+1620246154 source:c:\users\ciri\documents\t2-tp1-202033202\projetoimoveist2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+
+1628196900 source:c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\controladorasapresentacao.h
+	<string.h>
+	"curses.h"
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\dominios.h
+	<string>
+	<stdexcept>
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\entidades.h
+	"dominios.h"
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<list>
+
+1628196900 source:c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\controladorasservico.cpp
+	"controladorasservico.h"
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<list>
+	<iostream>
+	<string>
+	<stdio.h>
+	"sqlite3.h"
+
+1628196900 c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\sqlite3.h
+	<stdarg.h>
+
+1628196900 source:c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\dominios.cpp
+	"dominios.h"
+
+1628196900 source:c:\users\gabriel\desktop\sofia\unb\semestres\1o\tp1\trabalhos\t2-tp1-202033202\projetoimoveist2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"curses.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"controladorasservico.h"
+

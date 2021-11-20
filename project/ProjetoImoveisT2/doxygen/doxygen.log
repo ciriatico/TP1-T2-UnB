@@ -1,0 +1,55 @@
+warning: The selected output language "portuguese" has not been updated
+since release 1.8.19.  As a result some sentences may appear in English.
+
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/dominios.h:455: warning: Found unknown command '@dominio'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:41: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setClasse(const Classe &classe)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:46: warning: The following parameter of Imovel::setClasse(const Classe &classe) is not documented:
+  parameter 'classe'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:25: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setCodigo(const Codigo &codigo)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:30: warning: The following parameter of Imovel::setCodigo(const Codigo &codigo) is not documented:
+  parameter 'codigo'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:105: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setDataFinal(const Data &dataFinal)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:110: warning: The following parameter of Imovel::setDataFinal(const Data &dataFinal) is not documented:
+  parameter 'dataFinal'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:89: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setDataInicial(const Data &dataInicial)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:94: warning: The following parameter of Imovel::setDataInicial(const Data &dataInicial) is not documented:
+  parameter 'dataInicial'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:57: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setDescricao(const Descricao &descricao)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:62: warning: The following parameter of Imovel::setDescricao(const Descricao &descricao) is not documented:
+  parameter 'descricao'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:73: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setEndereco(const Endereco &endereco)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:78: warning: The following parameter of Imovel::setEndereco(const Endereco &endereco) is not documented:
+  parameter 'endereco'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:121: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setHospedes(const Numero &hospedes)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:126: warning: The following parameter of Imovel::setHospedes(const Numero &hospedes) is not documented:
+  parameter 'hospedes'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:137: warning: argument 'referência' of command @param is not found in the argument list of Imovel::setValor(const Moeda &valor)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:142: warning: The following parameter of Imovel::setValor(const Moeda &valor) is not documented:
+  parameter 'valor'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:249: warning: argument 'referência' of command @param is not found in the argument list of Proposta::setCodigo(const Codigo &codigo)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:254: warning: The following parameter of Proposta::setCodigo(const Codigo &codigo) is not documented:
+  parameter 'codigo'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:281: warning: argument 'referência' of command @param is not found in the argument list of Proposta::setDataFinal(const Data &dataFinal)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:286: warning: The following parameter of Proposta::setDataFinal(const Data &dataFinal) is not documented:
+  parameter 'dataFinal'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:265: warning: argument 'referência' of command @param is not found in the argument list of Proposta::setDataInicial(const Data &dataInicial)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:270: warning: The following parameter of Proposta::setDataInicial(const Data &dataInicial) is not documented:
+  parameter 'dataInicial'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:297: warning: argument 'referência' of command @param is not found in the argument list of Proposta::setHospedes(const Numero &hospedes)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:302: warning: The following parameter of Proposta::setHospedes(const Numero &hospedes) is not documented:
+  parameter 'hospedes'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:313: warning: argument 'referência' of command @param is not found in the argument list of Proposta::setValor(const Moeda &valor)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:318: warning: The following parameter of Proposta::setValor(const Moeda &valor) is not documented:
+  parameter 'valor'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:410: warning: argument 'referência' of command @param is not found in the argument list of Usuario::setEmail(const Email &email)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:415: warning: The following parameter of Usuario::setEmail(const Email &email) is not documented:
+  parameter 'email'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:394: warning: argument 'referência' of command @param is not found in the argument list of Usuario::setNome(const Nome &nome)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:399: warning: The following parameter of Usuario::setNome(const Nome &nome) is not documented:
+  parameter 'nome'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:426: warning: argument 'referência' of command @param is not found in the argument list of Usuario::setSenha(const Senha &senha)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:431: warning: The following parameter of Usuario::setSenha(const Senha &senha) is not documented:
+  parameter 'senha'
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:442: warning: argument 'referência' of command @param is not found in the argument list of Usuario::setTelefone(const Telefone &telefone)
+C:/Users/ciri/Desktop/unb/semestre1/tp1/trabalho1/codeblocks/T1-TP1-202033202/entidades.h:447: warning: The following parameter of Usuario::setTelefone(const Telefone &telefone) is not documented:
+  parameter 'telefone'
