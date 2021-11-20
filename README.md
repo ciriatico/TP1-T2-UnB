@@ -37,5 +37,11 @@ A interface com o usuário é feita através do terminal com telas para cada um 
 
 Abaixo, capturas de algumas telas do programa.
 
+<p align="center"><img src="media/ui_tela_inicial.PNG" alt="ui_tela_inicial" style="width:65%;"/></p>
+
+<p align="center"><img src="media/ui_tela_listagem_imoveis.PNG" alt="ui_tela_listagem_imoveis" style="width:65%;"/></p>
+
+<p align="center"><img src="media/ui_tela_servicos_geral.PNG" alt="ui_tela_servicos_geral" style="width:65%;"/></p>
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
