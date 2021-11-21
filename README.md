@@ -1,5 +1,5 @@
-# P2 (TP1 - 2020.2): Sistema de Imóveis
- Projeto 2 de Técnicas de Programação (TP1), disciplina ofertada na Universidade de Brasília (UnB) no semestre 2020.2. 
+# T2 (TP1 - 2020.2): Sistema de Imóveis
+ Trabalho 2 de Técnicas de Programação (TP1), disciplina ofertada na Universidade de Brasília (UnB) no semestre 2020.2. 
 
 ## Funcionalidades do sistema
 
